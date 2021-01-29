@@ -1,0 +1,7 @@
+C:\Users\mau_l\source\repos\Proyecto diky\Proyecto diky\bin\Debug\Proyecto diky.exe.config
+C:\Users\mau_l\source\repos\Proyecto diky\Proyecto diky\bin\Debug\Proyecto diky.exe
+C:\Users\mau_l\source\repos\Proyecto diky\Proyecto diky\bin\Debug\Proyecto diky.pdb
+C:\Users\mau_l\source\repos\Proyecto diky\Proyecto diky\obj\Debug\Proyecto diky.csprojAssemblyReference.cache
+C:\Users\mau_l\source\repos\Proyecto diky\Proyecto diky\obj\Debug\Proyecto diky.exe
+C:\Users\mau_l\source\repos\Proyecto diky\Proyecto diky\obj\Debug\Proyecto diky.pdb
+C:\Users\mau_l\source\repos\Proyecto diky\Proyecto diky\obj\Debug\Proyecto diky.csproj.CoreCompileInputs.cache
